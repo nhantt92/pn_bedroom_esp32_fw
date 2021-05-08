@@ -1,0 +1,1 @@
+1 pn_bedroom_esp32_fw v4.4-dev-4-g73db14240
